@@ -20,4 +20,8 @@
 - Hobby photographer
 - C# is the best language, change my mind
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuliusJacobsohn)
+#### Contact
+[<img src='https://img.icons8.com/color/48/000000/xing.png' alt='Xing' height='40'>](https://www.xing.com/profile/Julius_Jacobsohn/portfolio)
+[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/julius-jacobsohn-6a6207174/)
+[<img src='https://img.icons8.com/color/48/000000/instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/chefkoch_jj/)
+[<img src='https://img.icons8.com/color/48/000000/github.png' alt='Github' height='40'>](https://github.com/JuliusJacobsohn)
