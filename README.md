@@ -3,12 +3,12 @@
 
 #### Published projects
 - [Exposure simulator for cameras](https://photo-tools.net/Simulator) (with [Till Schallau](https://github.com/tillschallau))
-- [Artventure](https://artventure-app.de/) - a fun way to explore local public artworks (work in progress)
+- [Artventure](https://artventure-app.de/) - a fun way to explore local public artworks
 
 #### Currently learning
 - C++
-- Russian (B1)
-- Japanese (A2)
+- Russian (B2)
+- Japanese (N5)
 
 #### Misc
 - Digitization enthusiast
