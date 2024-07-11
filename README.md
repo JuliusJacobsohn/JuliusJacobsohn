@@ -7,7 +7,7 @@
 
 #### Currently learning
 - Russian (B2)
-- Japanese (N5)
+- Japanese (N4)
 
 #### Misc
 - Digitization enthusiast
